@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Joan Rafael",
+      "empresa": "Empresa de Telefono",
+      "email": "Lyen_2000@hotmail.com",
+      "telefono": "922406277",
+      "notas": "Creando Numeros",
+      "id": 1
+    },
+    {
+      "nombre": "Salud",
+      "empresa": "Codigo con Rafael",
+      "email": "rafarth1@outlook.com",
+      "telefono": "922406277",
+      "notas": "asdasd",
+      "id": 2
+    },
+    {
+      "nombre": "Joan Rafael",
+      "empresa": "Codigo con Rafael",
+      "email": "rafarth1@outlook.com",
+      "telefono": "123123123123",
+      "notas": "asdasdasdasd",
+      "id": 3
+    },
+    {
+      "nombre": "Comida",
+      "empresa": "Codigo con Rafael",
+      "email": "rafarth1@outlook.com",
+      "telefono": "922406277",
+      "notas": "asdasdasdasd",
+      "id": 4
+    },
+    {
+      "nombre": "Rafael",
+      "empresa": "Rafael Empresas",
+      "email": "rafarth1@outlook.com",
+      "telefono": "123123123123",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
